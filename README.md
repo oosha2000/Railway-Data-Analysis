@@ -48,12 +48,8 @@ Job Profile: Data Analytics (Power BI)
 Group Code: ALX2_DAT2_G3
 
 Team Members:
-1. Shaza Ahmed
+1. Shaza Ahmed Salah El-Din
 2. Mariam Mahmoud Ibrahim Hafez Salem
-3. Jumana Hossam Zakarya
-4. Menntullah Omar
-5. Meram George
-
-
-
-
+3. Joumana Hossam El-Din Zakareya
+4. Mennatullah Omar Hassan Kashlan
+5. Meram George Metaws
